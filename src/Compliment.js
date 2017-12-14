@@ -1,3 +1,4 @@
+
 import React, { Component } from "react"
 import PropTypes from "prop-types"
 
@@ -50,4 +51,3 @@ class Compliments extends Component {
 }
 
 export default Hello
-
